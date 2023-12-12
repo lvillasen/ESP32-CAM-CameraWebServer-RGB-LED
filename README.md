@@ -1,6 +1,6 @@
 
 
-## Taken from the ESP examples and expanded ro include an RGB LED
+## Taken from the ESP examples and expanded to include an RGB LED
 
 This sketch is a extension of the 'official' ESP32 Camera example sketch from Espressif:
 
