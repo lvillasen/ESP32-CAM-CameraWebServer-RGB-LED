@@ -35,8 +35,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "INFINITUM11FB";
-const char* password = "Je3Nk1Bz8j";
+const char* ssid = "your_ssid";
+const char* password = "your_passwd";
 
 // LV 9/Dic/23
 // Configure pins for LED RGB here and in app_httpd.cpp
