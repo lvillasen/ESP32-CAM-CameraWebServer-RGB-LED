@@ -1,7 +1,7 @@
 
 # ESP32-CAM-CameraWebServer-RGB-LED
 
-## Takes photos and controls an RGB LED with the ESP32-CAM 
+## Takes photos and controls an RGB LED with the ESP32-CAM on Arduino IDE
 
 ## Taken from the ESP examples and expanded to include an RGB LED
 
