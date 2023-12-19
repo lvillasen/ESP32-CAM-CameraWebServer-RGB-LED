@@ -3,7 +3,7 @@
 
 ## Takes photos and controls an RGB LED with the ESP32-CAM on Arduino IDE
 
-## Taken from the ESP examples and expanded to include an RGB LED
+### Taken from the ESP examples and expanded to include an RGB LED
 
 ### This sketch is a extension of the 'official' ESP32 Camera example sketch from Espressif:
 
